@@ -5,7 +5,7 @@ Text-based Black Jack
 
 The way you play the game -
 
-java com.insightdataeng.blackjack.BlackJackGame
+java com.mycasino.blackjack.BlackJackGame
 
 The following features are implemented -
 
